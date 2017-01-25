@@ -6,7 +6,7 @@
         <generator>The Grid</generator>
         <lastBuildDate>Wed, 25 Jan 2017 21:55:41 GMT</lastBuildDate>
         <atom:link href="http://events.diet/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Jan 2017 21:55:40 GMT</pubDate>
+        <pubDate>Wed, 25 Jan 2017 21:55:41 GMT</pubDate>
         <item>
             <title><![CDATA[Refs Must Have Owner Warning - React]]></title>
             <description><![CDATA[<article><h1>Refs Must Have Owner Warning - React</h1><p>A JavaScript library for building user interfaces</p><img src="https://facebook.github.io/react/img/logo_og.png"></article>]]></description>
@@ -48,6 +48,13 @@
             <link>https://transitory.technology/console-log/</link>
             <guid isPermaLink="false">f4105616-98ca-4ffe-9130-737fb45713fb</guid>
             <pubDate>Wed, 25 Jan 2017 21:55:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paul Irish]]></title>
+            <description><![CDATA[<article><h1>Paul Irish</h1><p>There are a few things that a console.log wrapper can and should do: Prevent errors if a console isn&apos;t around (i.e. IE) Maintain a history of logs, so you can look in the past if your console is added afterwards (e.g. firebug lite) Normalize the browser differences in console integration (e.g.</p><img src="https://paulirish.com/avatar150.jpg"></article>]]></description>
+            <link>https://www.paulirish.com/2009/log-a-lightweight-wrapper-for-consolelog/</link>
+            <guid isPermaLink="false">deb3a93e-799d-4d72-9a8d-4e39b3dbd6ad</guid>
+            <pubDate>Wed, 25 Jan 2017 21:55:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
