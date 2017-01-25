@@ -1,0 +1,120 @@
+typography_spectrum: 0.002462254138663411
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.3361277801450342
+  lightness: 0.25518821831792593
+  saturation: 0.13190610031597316
+  rhythmicContrast: 0.17263040132820606
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+github: true
+layout_spectrum: 0.15430221846327186
+author:
+  name: snoop
+name: 5 thousand miles
+url: 'https://thegrid.ai/5-thousand-miles-wind-up-at-your-door/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7rw5ihxrl4Y%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7rw5ihxrl4Y&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7rw5ihxrl4Y%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: UKF Dubstep
+          url: 'https://www.youtube.com/user/UKFDubstep'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      keywords:
+        - dubstep
+        - ukf
+        - remix
+        - duration
+        - noize
+        - views
+        - soundcloud
+        - http
+        - www
+        - zeds
+      description: >-
+        Bare Noize remix The Living Graham Bond's 'Winter Hunter' featuring
+        Fiona Bevan. Released July 26th on Fat! Records. Beatport:
+        https://www.beatport.com/en-US/html/content/release/detail/265360/winter_hunter_remixes
+        Juno Download:
+        http://www.junodownload.com/products/winter-hunter-remixes/1610015-02/
+        Bare Noize Facebook:
+        http://www.facebook.com/pages/Bare-Noize/86135063029 Bare Noize MySpace:
+        http://www.myspace.com/barenoize Bare Noize SoundCloud:
+        http://soundcloud.com/barenoize Fat! Records SoundCloud:
+        http://soundcloud.com/fatrecords http://www.facebook.com/ukfdubstep
+        http://www.ukfmusic.com http://www.twitter.com/UKFLuke
+      inLanguage: en
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=7rw5ihxrl4Y&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=7rw5ihxrl4Y&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=7rw5ihxrl4Y&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=7rw5ihxrl4Y&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=7rw5ihxrl4Y&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=7rw5ihxrl4Y'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=7rw5ihxrl4Y
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=7rw5ihxrl4Y
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=7rw5ihxrl4Y'
+      title: >-
+        The Living Graham Bond - Winter Hunter Ft. Fiona Bevan (Bare Noize
+        Remix)
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: contact
+    url: 'tel:22222222'
+    label: Call 22222222
+  - type: external
+    url: 'http://www.webpagefx.com/tools/emoji-cheat-sheet/'
+    label: emoji-cheat-sheet
+title: lame cta
+description: ''
