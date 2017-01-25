@@ -24,11 +24,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://github.com'
 title: 'Build software better, together'
-datePublished: '2017-01-25T21:55:42.494Z'
-dateModified: '2017-01-12T06:54:47.445Z'
+datePublished: '2017-01-25T21:55:42.702Z'
+dateModified: '2017-01-12T06:54:47.224Z'
 via: {}
 inFeed: true
-datePublishedOriginal: '2017-01-25T21:55:42.494Z'
+datePublishedOriginal: '2017-01-25T21:55:42.702Z'
 starred: false
 sourcePath: _posts/2017-01-25-build-software-better-together.md
 _context: 'http://schema.org'
