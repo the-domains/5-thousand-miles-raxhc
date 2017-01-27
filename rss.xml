@@ -4,16 +4,9 @@
         <description><![CDATA[lame cta]]></description>
         <link>http://events.diet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Jan 2017 21:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2017 07:47:49 GMT</lastBuildDate>
         <atom:link href="http://events.diet/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Jan 2017 21:56:13 GMT</pubDate>
-        <item>
-            <title><![CDATA[Refs Must Have Owner Warning - React]]></title>
-            <description><![CDATA[<article><h1>Refs Must Have Owner Warning - React</h1><p>A JavaScript library for building user interfaces</p><img src="https://facebook.github.io/react/img/logo_og.png"></article>]]></description>
-            <link>http://events.diet/refs-must-have-owner-warning-react/index.html</link>
-            <guid isPermaLink="false">9736127f-f32d-4b84-b3ef-669a4da653fa</guid>
-            <pubDate>Tue, 24 Jan 2017 09:02:27 GMT</pubDate>
-        </item>
+        <pubDate>Fri, 27 Jan 2017 07:47:47 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>that’s the difference…</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/060c22b1-89ff-476a-b0b0-844f11aadd90.jpg">,<p>wasdasd</p>]]></description>
@@ -71,11 +64,11 @@
             <pubDate>Wed, 25 Jan 2017 21:55:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4792ef5fba6f95780b07bd8761bf44f7/noop.png?input=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F1x%2Fgooglelogo_white_background_color_272x92dp.png"><h1>Google</h1><p>Search the world&apos;s information, including webpages, images, videos and more. Google has many special features to help you find exactly what you&apos;re looking for.</p></article>,<article><h1>The Grid - You are building a website. Better yours than Zuck&apos;s.</h1><img src="http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png"></article>]]></description>
-            <link>http://events.diet/google/index.html</link>
-            <guid isPermaLink="false">55283f2f-db97-4044-a688-f14912429e6e</guid>
-            <pubDate>Wed, 25 Jan 2017 21:55:43 GMT</pubDate>
+            <title><![CDATA[Build software better, together]]></title>
+            <description><![CDATA[<article><h1>Build software better, together</h1><p>GitHub is where people build software. More than 19 million people use GitHub to discover, fork, and contribute to over 50 million projects.</p><img src="https://assets-cdn.github.com/images/modules/open_graph/github-logo.png"></article>]]></description>
+            <link>https://github.com</link>
+            <guid isPermaLink="false">d75071c7-ba6c-4d47-a32f-bcf9f19f8378</guid>
+            <pubDate>Wed, 25 Jan 2017 22:37:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
